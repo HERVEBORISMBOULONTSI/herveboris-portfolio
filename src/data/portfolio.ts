@@ -81,6 +81,11 @@ export const clientSites = [
     url: "https://litijdatas.com/",
   },
   {
+    name: "Express Logistics Solutions",
+    domain: "expresslogistics-solutions.com",
+    url: "https://expresslogistics-solutions.com/",
+  },
+  {
     name: "Neolotix",
     domain: "neovoltixsarl.com",
     url: "https://neovoltixsarl.com/",
